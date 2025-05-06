@@ -4,5 +4,5 @@ Repositório criado para treinamento de GitHub.
 Eu sou um funcionário da philips.
 # Treinamento GitHub
 Luccas Correia Gomes da Silva
-# modificado o arquivo do ramo A
-Eu sou o ramo A (online)
+# modificado o arquivo do ramo B
+Eu sou o ramo B (offline)
