@@ -1,4 +1,4 @@
-# hello-world - RAMO B (OFFLINE)
+# hello-world - RAMO A (ONLINE)
 Repositório criado para treinamento de GitHub.
 # philips
 Eu sou um funcionário da philips.
